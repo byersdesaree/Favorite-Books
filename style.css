@@ -1,0 +1,14 @@
+.card{
+    float: left;
+    margin: 25px;
+}
+img{
+    
+    
+    object-fit: cover;
+}
+#rt2{
+    position: relative;
+   top: 450px;
+   right: 990px;;
+}
